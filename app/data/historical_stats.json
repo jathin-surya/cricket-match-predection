@@ -1,0 +1,113 @@
+{
+    "stadiums": {
+      "wankhede": {
+        "ind": { "win_rate": 70, "stadium_advantage": 15 },
+        "aus": { "win_rate": 30, "stadium_advantage": 5 },
+        "sa": { "win_rate": 60, "stadium_advantage": 10 },
+        "wi": { "win_rate": 40, "stadium_advantage": 8 },
+        "sl": { "win_rate": 55, "stadium_advantage": 12 },
+        "eng": { "win_rate": 50, "stadium_advantage": 10 },
+        "nz": { "win_rate": 45, "stadium_advantage": 6 }
+      },
+      "lords": {
+        "ind": { "win_rate": 75, "stadium_advantage": 12 },
+        "aus": { "win_rate": 65, "stadium_advantage": 10 },
+        "sa": { "win_rate": 55, "stadium_advantage": 8 },
+        "wi": { "win_rate": 50, "stadium_advantage": 7 },
+        "sl": { "win_rate": 60, "stadium_advantage": 9 },
+        "eng": { "win_rate": 80, "stadium_advantage": 20 },
+        "nz": { "win_rate": 52, "stadium_advantage": 6 }
+      },
+      "mcg": {
+        "ind": { "win_rate": 72, "stadium_advantage": 14 },
+        "aus": { "win_rate": 80, "stadium_advantage": 18 },
+        "sa": { "win_rate": 60, "stadium_advantage": 9 },
+        "wi": { "win_rate": 55, "stadium_advantage": 8 },
+        "sl": { "win_rate": 60, "stadium_advantage": 10 },
+        "eng": { "win_rate": 70, "stadium_advantage": 15 },
+        "nz": { "win_rate": 67, "stadium_advantage": 12 }
+      },
+      "eden garden": {
+        "ind": { "win_rate": 65, "stadium_advantage": 16 },
+        "aus": { "win_rate": 45, "stadium_advantage": 5 },
+        "sa": { "win_rate": 55, "stadium_advantage": 7 },
+        "wi": { "win_rate": 50, "stadium_advantage": 6 },
+        "sl": { "win_rate": 60, "stadium_advantage": 9 },
+        "eng": { "win_rate": 50, "stadium_advantage": 7 },
+        "nz": { "win_rate": 57, "stadium_advantage": 8 }
+      },
+      "trafford": {
+        "ind": { "win_rate": 68, "stadium_advantage": 13 },
+        "aus": { "win_rate": 58, "stadium_advantage": 10 },
+        "sa": { "win_rate": 65, "stadium_advantage": 11 },
+        "wi": { "win_rate": 54, "stadium_advantage": 7 },
+        "sl": { "win_rate": 59, "stadium_advantage": 9 },
+        "eng": { "win_rate": 72, "stadium_advantage": 15 },
+        "nz": { "win_rate": 60, "stadium_advantage": 8 }
+      },
+      "cape town": {
+        "ind": { "win_rate": 55, "stadium_advantage": 12 },
+        "aus": { "win_rate": 50, "stadium_advantage": 9 },
+        "sa": { "win_rate": 78, "stadium_advantage": 20 },
+        "wi": { "win_rate": 45, "stadium_advantage": 6 },
+        "sl": { "win_rate": 58, "stadium_advantage": 10 },
+        "eng": { "win_rate": 65, "stadium_advantage": 13 },
+        "nz": { "win_rate": 55, "stadium_advantage": 8 }
+      },
+      "sydney": {
+        "ind": { "win_rate": 65, "stadium_advantage": 14 },
+        "aus": { "win_rate": 80, "stadium_advantage": 22 },
+        "sa": { "win_rate": 58, "stadium_advantage": 10 },
+        "wi": { "win_rate": 50, "stadium_advantage": 7 },
+        "sl": { "win_rate": 55, "stadium_advantage": 8 },
+        "eng": { "win_rate": 70, "stadium_advantage": 16 },
+        "nz": { "win_rate": 60, "stadium_advantage": 9 }
+      },
+      "chinnaswamy": {
+        "ind": { "win_rate": 75, "stadium_advantage": 18 },
+        "aus": { "win_rate": 60, "stadium_advantage": 10 },
+        "sa": { "win_rate": 67, "stadium_advantage": 12 },
+        "wi": { "win_rate": 55, "stadium_advantage": 9 },
+        "sl": { "win_rate": 62, "stadium_advantage": 11 },
+        "eng": { "win_rate": 60, "stadium_advantage": 8 },
+        "nz": { "win_rate": 63, "stadium_advantage": 10 }
+      },
+      "oval": {
+        "ind": { "win_rate": 60, "stadium_advantage": 13 },
+        "aus": { "win_rate": 65, "stadium_advantage": 14 },
+        "sa": { "win_rate": 55, "stadium_advantage": 9 },
+        "wi": { "win_rate": 60, "stadium_advantage": 11 },
+        "sl": { "win_rate": 70, "stadium_advantage": 15 },
+        "eng": { "win_rate": 80, "stadium_advantage": 20 },
+        "nz": { "win_rate": 58, "stadium_advantage": 12 }
+      },
+      "newlands": {
+        "ind": { "win_rate": 60, "stadium_advantage": 12 },
+        "aus": { "win_rate": 55, "stadium_advantage": 8 },
+        "sa": { "win_rate": 75, "stadium_advantage": 18 },
+        "wi": { "win_rate": 50, "stadium_advantage": 6 },
+        "sl": { "win_rate": 55, "stadium_advantage": 9 },
+        "eng": { "win_rate": 60, "stadium_advantage": 10 },
+        "nz": { "win_rate": 65, "stadium_advantage": 11 }
+      }
+    },
+    "teams": {
+      "ind": { "player_avg": 45.2 },
+      "aus": { "player_avg": 42.3 },
+      "sa": { "player_avg": 40.1 },
+      "wi": { "player_avg": 38.7 },
+      "sl": { "player_avg": 39.4 },
+      "eng": { "player_avg": 41.2 },
+      "nz": { "player_avg": 40.5 }
+    },
+    "toss_wins": {
+      "ind": 60,
+      "aus": 40,
+      "sa": 50,
+      "wi": 45,
+      "sl": 52,
+      "eng": 55,
+      "nz": 48
+    }
+  }
+  

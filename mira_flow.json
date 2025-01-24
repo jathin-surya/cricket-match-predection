@@ -1,0 +1,15 @@
+{
+    "name": "match_toss_prediction",
+    "description": "Predict cricket match toss and winner based on historical data and weather.",
+    "inputs": [
+      { "name": "team_a", "type": "string" },
+      { "name": "team_b", "type": "string" },
+      { "name": "stadium", "type": "string" },
+      { "name": "weather", "type": "string" }
+    ],
+    "outputs": [
+      { "name": "toss_winner", "type": "string" },
+      { "name": "match_winner", "type": "string" }
+    ]
+  }
+  
